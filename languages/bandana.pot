@@ -1,0 +1,328 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Bandana\n"
+"POT-Creation-Date: 2016-10-04 19:14+0500\n"
+"PO-Revision-Date: 2016-10-04 19:14+0500\n"
+"Last-Translator: DesignOrbital <care@designorbital.com>\n"
+"Language-Team: DesignOrbital <care@designorbital.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:32
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought"
+msgid_plural "%1$s Thoughts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:62
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:107
+msgid "Main Sidebar"
+msgstr ""
+
+#: header.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:68 header.php:69
+msgid "Menu"
+msgstr ""
+
+#: image.php:65 template-parts/content-page.php:21
+#: template-parts/content-single.php:28
+msgid "Pages:"
+msgstr ""
+
+#: image.php:75
+msgid "Edit"
+msgstr ""
+
+#: image.php:83
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:84
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Personalize the settings of your theme."
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Main Sidebar Position (if active)"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Support Options"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid ""
+"Thanks for your interest in Bandana Lite! Following links will be helpful to "
+"you."
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Bandana Lite vs Bandana Pro"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Bandana Documentation"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "General Support"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "About Bandana Pro"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid ""
+"Bandana Pro is premium WordPress theme with lot of additional features and "
+"support forum access. Please visit the link below to know more about Bandana "
+"Pro theme."
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Bandana Pro"
+msgstr ""
+
+#: inc/extras.php:52
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:60
+msgctxt "Merriweather Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:68
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:76
+msgctxt "Add new subset (cyrillic, greek, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/extras.php:262
+msgid "Copyright"
+msgstr ""
+
+#: inc/extras.php:280
+msgid "Powered by"
+msgstr ""
+
+#: inc/extras.php:281
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-tags.php:20
+msgid "Previous Page"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Next Page"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgctxt "post date"
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgctxt "sticky post label"
+msgid "Featured"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:156
+msgctxt "Used between category, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:158
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:162
+msgctxt "Used between tag, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:164
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:168
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/biography.php:25
+msgid "Author:"
+msgstr ""
+
+#: template-parts/biography.php:30
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Continue Reading"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bandana"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://designorbital.com/bandana/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bandana is a modern, creative and beautiful WordPress theme. Bandana is easy "
+"to use theme with clean code and elegant design. The theme is suitable for "
+"any kind of blog, business, creative agency and portfolio."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DesignOrbital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://designorbital.com/"
+msgstr ""
